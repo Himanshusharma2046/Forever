@@ -1,12 +1,12 @@
 # Forever - E-commerce Application
 
-![Forever](https://scintillating-sawine-6137b5.netlify.app/collection)
+![Forever](https://scintillating-sawine-6137b5.netlify.app/)
 
 ## Description
 Forever is a comprehensive online marketplace offering over 10,000 products for buying and selling. The application provides a seamless user experience with features like filtering, searching, cart management, authentication, and more.
 
 ## Live Demo
-🔗 [Forever E-commerce App](https://scintillating-sawine-6137b5.netlify.app/collection)
+🔗 [Forever E-commerce App](https://scintillating-sawine-6137b5.netlify.app/)
 
 ## Features
 - 🔍 **Product Filtering & Searching**
